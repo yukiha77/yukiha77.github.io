@@ -1,0 +1,2 @@
+アプリケーションの起動方法
+[Shukatu-quest-original\Shukatu-quest\AppPackages\Shukatu-quest_1.1.4.0_x86_Debug_Test]にある[Add-AppDevPackage]を右クリックしPowerShellで実行を選びインストールしWindowsホームのすべてのアプリから実行できる

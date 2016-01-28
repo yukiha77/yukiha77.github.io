@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="Shukatu_quest.Prologue"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Shukatu_quest"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Viewbox VerticalAlignment="Top" d:LayoutOverrides="TopPosition, BottomPosition">
+
+        <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+            <Image x:ConnectionId='1' x:Name="image" VerticalAlignment="Top" Source="arasuji.png" Height="1084" d:LayoutOverrides="Width, LeftPosition, RightPosition"/>
+            <Button x:ConnectionId='2' x:Name="button" Content="&#xD;&#xA;&#xD;&#xA;" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" d:LayoutOverrides="Width, Height, LeftPosition, RightPosition, TopPosition, BottomPosition" Background="#00000000"                     />
+        </Grid>
+    </Viewbox>
+</Page>
+

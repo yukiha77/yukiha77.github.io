@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Windows
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shukatu-quest", "Shukatu-quest\Shukatu-quest.csproj", "{B59C5787-C514-43DC-9CB3-1787757F66EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B59C5787-C514-43DC-9CB3-1787757F66EA}.Debug|ARM.ActiveCfg = Debug|ARM
+		{B59C5787-C514-43DC-9CB3-1787757F66EA}.Debug|ARM.Build.0 = Debug|ARM
+		{B59C5787-C514-43DC-9CB3-1787757F66EA}.Debug|ARM.Deploy.0 = Debug|ARM
+		{B59C5787-C514-43DC-9CB3-1787757F66EA}.Debug|x64.ActiveCfg = Debug|x64
+		{B59C5787-C514-43DC-9CB3-1787757F66EA}.Debug|x64.Build.0 = Debug|x64
+		{B59C5787-C514-43DC-9CB3-1787757F66EA}.Debug|x64.Deploy.0 = Debug|x64
+		{B59C5787-C514-43DC-9CB3-1787757F66EA}.Debug|x86.ActiveCfg = Debug|x86
+		{B59C5787-C514-43DC-9CB3-1787757F66EA}.Debug|x86.Build.0 = Debug|x86
+		{B59C5787-C514-43DC-9CB3-1787757F66EA}.Debug|x86.Deploy.0 = Debug|x86
+		{B59C5787-C514-43DC-9CB3-1787757F66EA}.Release|ARM.ActiveCfg = Release|ARM
+		{B59C5787-C514-43DC-9CB3-1787757F66EA}.Release|ARM.Build.0 = Release|ARM
+		{B59C5787-C514-43DC-9CB3-1787757F66EA}.Release|ARM.Deploy.0 = Release|ARM
+		{B59C5787-C514-43DC-9CB3-1787757F66EA}.Release|x64.ActiveCfg = Release|x64
+		{B59C5787-C514-43DC-9CB3-1787757F66EA}.Release|x64.Build.0 = Release|x64
+		{B59C5787-C514-43DC-9CB3-1787757F66EA}.Release|x64.Deploy.0 = Release|x64
+		{B59C5787-C514-43DC-9CB3-1787757F66EA}.Release|x86.ActiveCfg = Release|x86
+		{B59C5787-C514-43DC-9CB3-1787757F66EA}.Release|x86.Build.0 = Release|x86
+		{B59C5787-C514-43DC-9CB3-1787757F66EA}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://o-yukiha.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Shukatu-quest\\Shukatu-quest.csproj
+		SccProjectName1 = Shukatu-quest
+		SccLocalPath1 = Shukatu-quest
+	EndGlobalSection
+EndGlobal
